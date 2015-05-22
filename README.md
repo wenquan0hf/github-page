@@ -1,4 +1,4 @@
-# 像 geek 一样写博客一样写博客
+# 像 geek 一样写博客
 
 Octopress 是一款优秀的静态化博客系统，也是一个本地化的博客系统，之前部落在介绍免费开源 Github Pages空间时有提到过 Octopress，Github 为我们提供长期稳定的免费空间服务，但是 Github 空间不是一般意义上的PHP或者 ASP 空间。
 
