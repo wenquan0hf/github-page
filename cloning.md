@@ -4,7 +4,7 @@
 
 ## 环境配置
 
-安装 msysgit，Ruby，DevKit，这里就不再重复了，请参考第一篇：[环境搭建](githubblog1.md)。
+安装 msysgit，Ruby，DevKit，这里就不再重复了，请参考第一篇：[环境搭建](environment.md)。
 除安装 octopress 依赖项外。octopress 依赖项在拉取仓库后再进行安装，也就是在本文是建立 github pages之前。
 
 ## 克隆你的 Octopress
